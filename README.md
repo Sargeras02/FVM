@@ -2,7 +2,7 @@
 
 Simple lib manager for folders' versions control / Простой менеджер для управления версиями папок
 
-Хайлайты, общий обзор, детальный SbS:
+Хайлайты, общий обзор, детальный SbS: https://youtu.be/KxVK408OE3c
 
 How to use: lib entry class - FVManager   
 Использование: входная точка библиотеки - FVManager
