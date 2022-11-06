@@ -1,4 +1,4 @@
-# FoldersVersionsManager
+# Folders' Versions Manager
 
 Simple lib manager for folders' versions control  
 - Build folders' hierarchical info model (recursively)
